@@ -1,0 +1,51 @@
+Question 1: 
+Write a program that display a menu as following: 
+a) Press 1 to let user enter 2 numbers and print their multiplication value.
+b) Press 2 to let user enter 2 numbers and the program will calculate their summation. 
+c) Press 3 to let user enter 3numbers then the program print the Maximum and
+Minimum value entered.
+d) Press 0 to Exit program.
+
+
+Question 2: 
+
+(Parking Charges):
+1-A parking garage charges a $2.00 minimum fee to park for up to three hours. 
+2-The garage charges an additional $0.50 per hour for each hour or part thereof in excess 
+of three hours. 
+3-The maximum charge for any given 24-hour period is $10.00. 
+4- Assume that no car parks for longer than 24 hours at a time.
+
+Write a program that calculates and prints the parking charges for each of three customers 
+who parked their cars in this garage yesterday. 
+You should enter the hours parked for each customer.
+Your program should print the results in a neat tabular format and...
+should calculate and print the total of yesterday’s receipts. 
+Your outputs should appear in the following format: 
+
+
+Question 3: 
+Write a program to calculate the net salary for an employee in a company,
+given that:
+a) If salary is greater than 3000$, tax is 10%. 
+b) If salary is greater than 5000$, tax is 15%. 
+c) If salary is less than 3000$, tax is 5%. 
+d) If salary is between 1000$ and 1500$ additional 200$ is added.
+
+
+Question 4:
+Write a program that tells the user whether this year is a leap year or not.
+All years which are perfectly divisible by 4 are leap years except for century years (years ending 
+with 00) which is leap year only it is perfectly divisible by 400. 
+For example:
+2012, 2004, 1968 etc are leap year but, 1971, 2006 etc are not leap year. Similarly, 1200, 1600, 
+2000, 2400 are leap years but, 1700, 1800, 1900 etc are not.
+
+
+
+Question 5: 
+Write a single C++ statement to accomplish each of the following: 
+a) Assign the sum of x and y to z and increment the value of x by 1 after the calculation. 
+b) Decrement the variable x by 1 then subtract it from the variable total. 
+c) Calculate the remainder after q is divided by divisor and assign the result to
+(Write this statement in two different ways).
